@@ -1,12 +1,6 @@
 <div align="center">
-
-# Ehtiram (Ezra) Shukurov
-
-**XR Developer & Researcher**
-
-*Building virtual worlds that reveal how the human mind responds to them.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://ehtiram-shukurov.github.io/)
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://ehtiram-shukurov.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/ehtiram-shukurov/)
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:shukurovehtiram29@gmail.com)
 
@@ -16,7 +10,9 @@
 
 ### About
 
-I'm a CS Master's student at the **University of Minnesota**, researching how avatar realism shapes human psychology in virtual environments. My thesis uses the Trier Social Stress Test inside a custom **Unreal Engine 5** environment with **MetaHuman** avatars to measure social evaluative threat responses.
+I'm a CS Master's student at the **University of Minnesota**. My research explores virtual reality, avatar realism, and how immersive environments affect human perception and stress responses — currently working with **MetaHuman** avatars and the Trier Social Stress Test in **Unreal Engine 5**.
+
+I build everything from VR research tools to MetaHuman-driven horror games to mixed reality medical simulations.
 
 > *Funded by the Azerbaijani Government Scholarship. Advised by Prof. Victoria Interrante.*
 
