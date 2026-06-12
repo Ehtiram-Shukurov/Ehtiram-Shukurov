@@ -6,7 +6,7 @@
 
 *Building virtual worlds that reveal how the human mind responds to them.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://ehtiram-shukurov.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/ehtiram-shukurov/)
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:shukurovehtiram29@gmail.com)
 
@@ -17,8 +17,6 @@
 ### About
 
 I'm a CS Master's student at the **University of Minnesota**, researching how avatar realism shapes human psychology in virtual environments. My thesis uses the Trier Social Stress Test inside a custom **Unreal Engine 5** environment with **MetaHuman** avatars to measure social evaluative threat responses.
-
-I'm also a TA for CSCI 5619 (Virtual Reality) and build everything from VR research tools to MetaHuman-driven horror games to mixed reality medical simulations.
 
 > *Funded by the Azerbaijani Government Scholarship. Advised by Prof. Victoria Interrante.*
 
