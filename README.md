@@ -1,3 +1,8 @@
+
+
+---
+
+### About
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://ehtiram-shukurov.github.io)
@@ -5,10 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:shukurovehtiram29@gmail.com)
 
 </div>
-
----
-
-### About
 
 I'm a CS Master's student at the **University of Minnesota**. My research explores virtual reality, avatar realism, and how immersive environments affect human perception and stress responses — currently working with **MetaHuman** avatars and the Trier Social Stress Test in **Unreal Engine 5**.
 
